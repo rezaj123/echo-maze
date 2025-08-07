@@ -8,7 +8,6 @@ import com.badlogic.gdx.Input
 import com.badlogic.gdx.math.Vector2
 import com.rezagames.echomaze.components.MovementComponent
 import com.rezagames.echomaze.components.PlayerInputComponent
-import com.rezagames.echomaze.components.PositionComponent
 import com.rezagames.echomaze.utils.GameConstants.PLAYER_SPEED
 
 class PlayerInputSystem : IteratingSystem(
